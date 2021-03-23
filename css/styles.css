@@ -1,0 +1,17 @@
+.green-background {
+  background-color: green;
+}
+
+.yellow-background {
+  background-color: yellow;
+}
+
+.red-background {
+  background-color: red;
+}
+
+.btn-original {
+  border: 1px solid black;
+  height: 37px;
+  margin-top: 3px;
+}
